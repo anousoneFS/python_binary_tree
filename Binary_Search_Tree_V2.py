@@ -81,4 +81,4 @@ if __name__ == '__main__':
 
     tree.preorder()
     tree.inorder()
-    tree.postorder()
+    #anousone
